@@ -1,4 +1,4 @@
-# firebase_test
+# firebase_authentication_with_flutter
 
 A read-to-use aunthentication Firebase project
 
